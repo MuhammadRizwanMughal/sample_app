@@ -28,8 +28,8 @@ gem 'jbuilder', '~> 2.5'
 gem "aws-sdk-s3", require: false
 gem 'jquery-rails'
 gem 'rails-ujs'
-
-
+gem "mini_magick"
+gem 'carrierwave', '~> 0.10.0'
 gem 'dotenv-rails'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
